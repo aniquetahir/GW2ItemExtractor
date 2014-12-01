@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "mysql": "~2.5.3",
+    "bluebird": "~2.3.11"
+  }
+}
